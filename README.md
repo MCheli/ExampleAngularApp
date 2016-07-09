@@ -1,5 +1,5 @@
 # A Simple Example of an Angular Application
-This is for use reference when using the Angular Front-End framework.  Various implementations of helpful Angular tools are implemented.
+This is for use reference when using the Angular Front-End framework.  Various implementations of helpful Angular tools are shown.
 
 ##Getting Started
 1. Clone Repo - Clone via VCS in your IDE or via command:  
